@@ -1,4 +1,4 @@
-
+﻿
 # 各模块具体要求
 
 ## 1. 元器件库结构体
@@ -204,3 +204,6 @@ $('#svgComponents').addClass('components-canbeselected');
 // 以下代码可以仅在指向所有元器件的连接点时，显示小手光标。
 $('#svgComponents').removeClass('components-canbeselected');
 ```
+
+
+//测试
